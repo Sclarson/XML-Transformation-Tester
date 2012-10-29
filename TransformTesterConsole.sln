@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransformTesterConsole", "TransformTesterConsole.csproj", "{862CBE63-A43E-4139-9663-6DC26320A66A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleConfigTransform", "ConsoleConfigTransform.csproj", "{862CBE63-A43E-4139-9663-6DC26320A66A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

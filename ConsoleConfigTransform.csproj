@@ -8,8 +8,8 @@
     <ProjectGuid>{862CBE63-A43E-4139-9663-6DC26320A66A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TransformTesterConsole</RootNamespace>
-    <AssemblyName>TransformTesterConsole</AssemblyName>
+    <RootNamespace>BlendInteractive</RootNamespace>
+    <AssemblyName>ConsoleConfigTransformer</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>
